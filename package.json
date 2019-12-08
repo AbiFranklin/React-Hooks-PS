@@ -1,32 +1,22 @@
 {
-  "name": "React-Hooks-PS",
+  "name": "clip2-Setting-Up-Toolchain",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next",
     "build": "next build",
     "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AbiFranklin/React-Hooks-PS.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AbiFranklin/React-Hooks-PS/issues"
-  },
-  "homepage": "https://github.com/AbiFranklin/React-Hooks-PS#readme",
   "dependencies": {
-    "next": "^9.1.4",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
-  },
-  "devDependencies": {
-    "eslint": "^6.7.2",
-    "eslint-plugin-react": "^7.17.0",
-    "react-hooks": "^1.0.1"
+    "bootstrap": "^4.4.1",
+    "next": "^8.0.3",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-dom": "^16.8.6"
   }
 }
